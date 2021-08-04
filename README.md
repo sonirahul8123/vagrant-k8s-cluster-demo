@@ -13,12 +13,12 @@ The target audience for this tutorial is someone planning to support a productio
 
 ## Pre-requisites
 
-### VM Hardware Requirements
+#### VM Hardware Requirements
 
 8 GB of RAM (Preferably 16 GB)
 50 GB Disk space
 
-### Virtual Box
+#### Virtual Box
 
 Download and Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) on any one of the supported platforms:
 
@@ -27,7 +27,7 @@ Download and Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) on 
  - Linux distributions
  - Solaris hosts
 
-### Vagrant
+#### Vagrant
 
 Once VirtualBox is installed you may chose to deploy virtual machines manually on it.
 Vagrant provides an easier way to deploy multiple virtual machines on VirtualBox more consistenlty.
